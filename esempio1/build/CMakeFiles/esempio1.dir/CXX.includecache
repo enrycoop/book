@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enrico/book/esempio1/esempio3.h
+iostream
+-
+string
+-
+
+/home/enrico/book/esempio1/main.cpp
+iostream
+-
+esempio3.h
+/home/enrico/book/esempio1/esempio3.h
+
