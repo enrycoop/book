@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enrico/book/lists/main.cpp
+iostream
+-
+singlelink.h
+/home/enrico/book/lists/singlelink.h
+
+/home/enrico/book/lists/node.h
+iostream
+-
+
+/home/enrico/book/lists/singlelink.h
+node.h
+/home/enrico/book/lists/node.h
+
