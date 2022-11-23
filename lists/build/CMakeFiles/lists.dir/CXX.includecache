@@ -11,6 +11,8 @@ iostream
 -
 singlelink.h
 /home/enrico/book/lists/singlelink.h
+string
+-
 
 /home/enrico/book/lists/node.h
 iostream

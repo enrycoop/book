@@ -12,9 +12,23 @@ iostream
 string
 -
 
+/home/enrico/book/esempio1/graph.h
+iostream
+-
+stdlib.h
+-
+math.h
+-
+string
+-
+string.h
+-
+
 /home/enrico/book/esempio1/main.cpp
 iostream
 -
+graph.h
+/home/enrico/book/esempio1/graph.h
 esempio3.h
 /home/enrico/book/esempio1/esempio3.h
 
